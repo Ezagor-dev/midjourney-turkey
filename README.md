@@ -64,10 +64,12 @@ Yapay zeka gelecekteki işlerimizi almayacak, yapay zekayı doğru kullanabilenl
 ![image](https://user-images.githubusercontent.com/45847677/215296368-bc0e349e-c398-49ff-b90b-ba12f96d8240.png)
 
 
-* trq
+* Ethnogenesis and State-Formation in Medieval and Early Modern Eurasia and the Middle East, full hd, 8k
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:Ethnogenesis and State-Formation in Medieval and Early Modern Eurasia and the Middle East, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296502-ceb63214-8f58-4f15-b47d-fae1098e1725.png)
+
 
 * trq
 ```
