@@ -57,10 +57,12 @@ Yapay zeka gelecekteki işlerimizi almayacak, yapay zekayı doğru kullanabilenl
 ![image](https://user-images.githubusercontent.com/45847677/215265369-9cc7cb03-296f-4fae-85ad-e8318b9b545b.png)
 
 
-* trq
+* turkic, trq, future, full hd, 8k
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:turkic, trq, future, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296368-bc0e349e-c398-49ff-b90b-ba12f96d8240.png)
+
 
 * trq
 ```
