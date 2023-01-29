@@ -162,30 +162,40 @@ Yapay zeka gelecekteki işlerimizi almayacak, yapay zekayı doğru kullanabilenl
 ![image](https://user-images.githubusercontent.com/45847677/215297110-cdc28a75-a92e-4a1e-a99f-369175965b01.png)
 
 
-* trq
+* The Türk Qaganates 
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:The Türk Qaganates, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215297169-8ecbb8e8-e5a4-4e89-bac7-8f735819b98b.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* Governance of the Türk Qağanate
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:Governance of the Türk Qağanate, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215297243-4048c232-b5bf-4a89-af94-72f7d47f96cc.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* The Türk Empires Religions
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:The Türk Empires Religions, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215297274-b6f9e38d-f418-4edc-aec5-8dd822e40f43.png)
+
+
+* The Türk Empires Writing Systems
+```
+/imagine prompt:The Türk Empires Writing Systems, full hd, 8k
+```
+![image](https://user-images.githubusercontent.com/45847677/215297317-e8794520-9b98-4402-a5d1-65938a6eaf19.png)
+
+
+* The Türk Empires Economy
+```
+/imagine prompt:The Türk Empires Economy, full hd, 8k
+```
+![image](https://user-images.githubusercontent.com/45847677/215297338-e673bdab-f686-4cb2-ad2c-f3dffaab6782.png)
+
 
 * trq
 ```
