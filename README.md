@@ -71,70 +71,96 @@ Yapay zeka gelecekteki işlerimizi almayacak, yapay zekayı doğru kullanabilenl
 ![image](https://user-images.githubusercontent.com/45847677/215296502-ceb63214-8f58-4f15-b47d-fae1098e1725.png)
 
 
-* trq
+* History of the Turkic Peoples, full hd, 8k
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:History of the Turkic Peoples, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296602-c6c147ba-d201-47b0-8059-c290cc66cc0c.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* Turkic Tribe, full hd, 8k
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:Turkic Tribe, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296631-eebbc2f4-a48d-46eb-a865-2b858dac9964.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* the Huns of Europe, full hd, 8k
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:the Huns of Europe, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296687-127cae2c-40ee-4706-9eb0-5bd4b7b7fe01.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* The Coming of the Ogt!ric Turkic Peoples
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:The Coming of the Ogt!ric Turkic Peoples
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296769-7e5a736f-a6c9-4750-9c7f-e9ee296ff81f.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* Oguric Turkic, full hd, 8k
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:Oguric Turkic, full hd, 8k
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296805-8aaf55c2-1e6c-4d6f-bf7f-94fa390354e1.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* The Early Oguric Tribes, full hd, 8k 
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:The Early Oguric Tribes, full hd, 8k 
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296858-dd7526cd-2bff-4c9f-ad9e-412d6ae83538.png)
 
-* trq
-```
-/imagine prompt:trq, full hd, 8k
-```
 
-* trq
+* Ogurs, Onogurs and Bulgars in Western Eurasia
 ```
-/imagine prompt:trq, full hd, 8k
+/imagine prompt:Ogurs, Onogurs and Bulgars in Western Eurasia
 ```
+![image](https://user-images.githubusercontent.com/45847677/215296919-9d4326bf-5d61-47ef-ba92-22922157d0cf.png)
+
+
+* The Sabirs 
+```
+/imagine prompt:The Sabirs 
+```
+![image](https://user-images.githubusercontent.com/45847677/215296947-fe2d1de2-5bec-4ce9-9bc1-502816153793.png)
+
+
+* The Caucasian Huns and Other "Hunnic"
+```
+/imagine prompt:The Caucasian Huns and Other "Hunnic"
+```
+![image](https://user-images.githubusercontent.com/45847677/215296982-2273b324-dc1c-4c72-8a61-b1a5c0c031e0.png)
+
+
+* The European Avars 
+```
+/imagine prompt:The European Avars 
+```
+![image](https://user-images.githubusercontent.com/45847677/215297021-47aa672c-5cc6-412e-b535-a577c941c2f6.png)
+
+
+* The Türk Empires of Eurasia 
+```
+/imagine prompt:The Türk Empires of Eurasia 
+```
+![image](https://user-images.githubusercontent.com/45847677/215297051-48e8ad79-9ba9-4bf0-861b-7a042466a0a3.png)
+
+
+* The Ethnonym Türk, Turkic
+```
+/imagine prompt:The Ethnonym Türk, Turkic, full hd, 8k
+```
+![image](https://user-images.githubusercontent.com/45847677/215297092-6fa6fbaa-90fc-4240-8f59-3143d1942bf9.png)
+
+
+* The Ethnonym Türk
+```
+/imagine prompt:The Ethnonym Türk, full hd, 8k
+```
+![image](https://user-images.githubusercontent.com/45847677/215297110-cdc28a75-a92e-4a1e-a99f-369175965b01.png)
+
 
 * trq
 ```
